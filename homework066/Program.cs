@@ -35,3 +35,4 @@ int Summ(int m, int n)
 int m = GetNumber("Введите число m");
 int n = GetNumber("Введите число n");
 Console.WriteLine($"{Summ(m, n)}");
+
